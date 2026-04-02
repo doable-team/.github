@@ -100,8 +100,7 @@ We believe in building in the open. Check out the engine behind n8nCopilot:
 
 <p align="center">
   <a href="https://doable.team"><strong>doable.team</strong></a> &nbsp;&middot;&nbsp;
-  <a href="mailto:hello@doable.team">hello@doable.team</a> &nbsp;&middot;&nbsp;
-  <a href="https://doable.team/career">We're hiring</a>
+  <a href="mailto:hello@doable.team">hello@doable.team</a>
 </p>
 
 <p align="center">
