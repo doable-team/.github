@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="doable.team - great software is doable by a lean team" width="100%" />
+  <img src="images/banner.jpg" alt="doable.team - great software is doable by a lean team" width="100%" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ No big promises. Just useful software that works.
   <tr>
     <td width="33%" align="center">
       <a href="https://rankth.com">
-        <img src="images/rankth-preview.png" alt="Rankth" width="100%" />
+        <img src="images/rankth-preview.jpg" alt="Rankth" width="100%" />
         <br />
         <strong>Rankth</strong>
       </a>
@@ -39,7 +39,7 @@ No big promises. Just useful software that works.
     </td>
     <td width="33%" align="center">
       <a href="https://n8ncopilot.com">
-        <img src="images/n8ncopilot-preview.png" alt="n8nCopilot" width="100%" />
+        <img src="images/n8ncopilot-preview.jpg" alt="n8nCopilot" width="100%" />
         <br />
         <strong>n8nCopilot</strong>
       </a>
@@ -51,7 +51,7 @@ No big promises. Just useful software that works.
     </td>
     <td width="33%" align="center">
       <a href="https://keep.domains">
-        <img src="images/keepdomains-preview.png" alt="keep.domains" width="100%" />
+        <img src="images/keepdomains-preview.jpg" alt="keep.domains" width="100%" />
         <br />
         <strong>keep.domains</strong>
       </a>
@@ -80,7 +80,7 @@ No big promises. Just useful software that works.
 ### Our Team
 
 <p align="center">
-  <img src="images/team.png" alt="Doable Team" width="70%" />
+  <img src="images/team.jpg" alt="Doable Team" width="70%" />
 </p>
 
 <p align="center">
