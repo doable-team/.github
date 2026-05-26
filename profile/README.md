@@ -33,7 +33,7 @@ No big promises. Just useful software that works.
         <strong>Visibility</strong>
       </a>
       <br />
-      SEO project management for the AI era. Track visibility across ChatGPT, Gemini & Perplexity. Turn insights into tasks.
+      AI agents that run your SEO. Track your brand's visibility across ChatGPT, Gemini & Perplexity — and turn every insight into a shipped task.
       <br /><br />
       <img src="https://img.shields.io/badge/status-beta-blue?style=flat-square" />
     </td>
