@@ -27,7 +27,7 @@ No big promises. Just useful software that works.
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://visibility.so">
+      <a href="https://visibility.so" target="_blank">
         <img src="images/visibility-preview.png" alt="Visibility" width="100%" />
         <br />
         <strong>Visibility</strong>
@@ -35,10 +35,10 @@ No big promises. Just useful software that works.
       <br />
       AI agents that run your SEO. Track your brand's visibility across ChatGPT, Gemini & Perplexity — and turn every insight into a shipped task.
       <br /><br />
-      <img src="https://img.shields.io/badge/status-beta-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/status-live-green?style=flat-square" />
     </td>
     <td width="33%" align="center">
-      <a href="https://n8ncopilot.com">
+      <a href="https://n8ncopilot.com" target="_blannk">
         <img src="images/n8ncopilot-preview.jpg" alt="n8nCopilot" width="100%" />
         <br />
         <strong>n8nCopilot</strong>
@@ -46,11 +46,11 @@ No big promises. Just useful software that works.
       <br />
       AI Chrome extension for generating & debugging n8n workflows in plain English. Open source & privacy-first.
       <br /><br />
-      <img src="https://img.shields.io/badge/users-5000%2B-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/users-4000%2B-green?style=flat-square" />
       <img src="https://img.shields.io/github/stars/farhansrambiyan/n8n-Workflow-Builder-Ai?style=flat-square" />
     </td>
     <td width="33%" align="center">
-      <a href="https://keep.domains">
+      <a href="https://keep.domains" target="_blank">
         <img src="images/keepdomains-preview.jpg" alt="keep.domains" width="100%" />
         <br />
         <strong>keep.domains</strong>
