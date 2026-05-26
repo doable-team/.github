@@ -27,10 +27,10 @@ No big promises. Just useful software that works.
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://rankth.com">
-        <img src="images/rankth-preview.jpg" alt="Rankth" width="100%" />
+      <a href="https://visibility.so">
+        <img src="images/visibility-preview.png" alt="Visibility" width="100%" />
         <br />
-        <strong>Rankth</strong>
+        <strong>Visibility</strong>
       </a>
       <br />
       SEO project management for the AI era. Track visibility across ChatGPT, Gemini & Perplexity. Turn insights into tasks.
